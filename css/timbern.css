@@ -1,0 +1,15 @@
+#div1{
+    background-image: url(../img/pattern.png);
+    background-color: #44a5e9;
+    background-size: contain;
+    padding-top: 45px;                 
+}
+
+#logo{
+
+    width: 150px;
+}
+
+body{
+    margin: 0px;
+}
