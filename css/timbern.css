@@ -38,3 +38,8 @@ h1{
 #evidenziato{
     background-color: yellow;
 }
+
+ul{
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
