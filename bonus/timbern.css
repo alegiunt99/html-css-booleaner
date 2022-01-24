@@ -1,0 +1,102 @@
+.container{
+    margin-left: 174px;
+    margin-right: 174px;
+    display: inline-block;
+    width: 1000px;
+
+}
+
+
+
+#div1{
+    background-image: url(../img/pattern.png);
+    background-color: #44a5e9;
+    background-size: contain;
+    padding-top: 45px;                 
+}
+
+#logo{
+
+    width: 150px;
+    margin-left: 174px;
+}
+
+body{
+    margin: 0px;
+}
+
+#fontedata{
+    color: grey;
+}
+
+h1{
+    margin-bottom: 3px;
+
+}
+
+#data{
+    font-size: 14px;
+}
+
+#fotoditim{ 
+    margin-top: 25px;
+   
+}
+
+#dirittifoto{
+    font-size: 14px;
+}
+
+#evidenziato{
+    background-color: yellow;
+}
+
+ul{
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
+
+table{
+    text-align: left;
+    border-spacing: 0px;
+}
+
+
+thead{
+    color: white;
+    background-color: #40b6d1;
+}
+
+.margine{
+    width: 340px;
+}
+
+.rigaceleste{
+    background-color: #bdf1fd;
+}
+
+#monitor{
+    color: white;
+    background-image: url(../img/monitor.jpg);
+    background-repeat: no-repeat;
+    padding-bottom: 180px;
+    padding-top: 10px;
+    padding-left: 10px;
+}
+
+#grafico{
+    color: white;
+    background-image: url(../img/graph.jpg);
+    background-repeat: no-repeat;
+    padding-bottom: 180px;
+    padding-top: 10px;
+    padding-left: 10px;
+}
+
+#annuncio{
+    color: grey;
+    margin-bottom: 12px;
+    margin-top: 35px;
+}
+
+
