@@ -13,3 +13,16 @@
 body{
     margin: 0px;
 }
+
+#fontedata{
+    color: grey;
+}
+
+h1{
+    margin-bottom: 3px;
+
+}
+
+#data{
+    font-size: 14px;
+}
