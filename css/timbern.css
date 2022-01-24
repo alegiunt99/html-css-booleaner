@@ -43,3 +43,22 @@ ul{
     margin-top: 50px;
     margin-bottom: 50px;
 }
+
+table{
+    text-align: left;
+    border-spacing: 0px;
+}
+
+
+thead{
+    color: white;
+    background-color: #40b6d1;
+}
+
+.margine{
+    width: 340px;
+}
+
+.rigaceleste{
+    background-color: #bdf1fd;
+}
